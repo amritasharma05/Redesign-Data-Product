@@ -2,7 +2,7 @@
 
 <b>Summary</b>
 
-The argument given here is that gun problem in America is larger and much more complicated that other developed countries.
+The argument given is that gun problem in America is larger and much more complicated that other developed countries.
 
 The article starts off with a video comparing America has a larger gun violence problem than other developed countries. Further it elaborates the same point with the help of more charts and graphs giving a detailed explanation of the comparison. It also states the frequency of this violence over a time trend which adds a support to the argument. 
 
