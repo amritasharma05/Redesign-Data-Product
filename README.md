@@ -20,9 +20,9 @@ When we view the data product from another perspective probably it wants to be m
 
 The literature topic here is America’s has a unique gun problem. Following are the starting points I would consider when redesigning this data product: - 
 
-•	I would like to identify what type of viewers would read this article? Am I targeting any special group of people?
-•	Anticipate what kind of questions will a viewer have while reading this article?
-•	Focus my data visualization around these questions.
+<li>	I would like to identify what type of viewers would read this article? Am I targeting any special group of people?
+<li>	Anticipate what kind of questions will a viewer have while reading this article?
+<li>	Focus my data visualization around these questions.
 •	What is the message I want to give the viewers? 
 •	What all spectrums can I view my data on? Is it more declarative or exploratory? Do I need to persuade my viewers to take a stand? Does my data visualization support an argument to take a stand?
 •	Do I need to recommend any strategies? Does my data have to be actionable or be neutral?
