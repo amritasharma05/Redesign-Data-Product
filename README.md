@@ -16,7 +16,7 @@ The last 3 charts show information such as more police killed on duty with highe
 
 When we view the data product from another perspective probably it wants to be more neutral and exploratory when giving out information. However more information can always lead to more confusion if it is not in the correct direction. Hence the data product was totally effective until some extent however in the end I think it missed out the overall point and failed to make an impact on the viewer.
 
-**Redesign Data Product
+<b>Redesign Data Product</b>
 
 The literature topic here is America’s has a unique gun problem. Following are the starting points I would consider when redesigning this data product: - 
 
@@ -40,7 +40,7 @@ My data visualization product will focus on the above broad points. I would use 
 
 Thus, my overall strategy to redesign the data product to develop a more comprehensive understanding about the issue at hand, what are the possible reasons and what could be potential measures or strategies that could be implemented which could allow the viewers to take a stand on the issue.
 
-**Data Sources
+<b>Data Sources</b>
 
 Following are the data sources which I extracted from the given article:
 
